@@ -28,7 +28,7 @@ class MainVC: UIViewController {
     
     //The #selector part of calcBtn.addTarget is part of Objective-C and thus in Swift this function must have @objc before it
     @objc func calculate() {
-        print("It works!")
+        
     }
 
     
